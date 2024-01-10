@@ -3,3 +3,7 @@ h1{
     text-shadow: 2px 2px 2px red;
     font-size: 50pt;
 }
+
+a{
+    text-decoration: underline;
+}
