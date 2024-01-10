@@ -1,15 +1,15 @@
 body{
-    color:rgb(253, 249, 0);
-    background:oklab(from rgb(255, 255, 255) l a b);
+    color:#fdf900;
+    background-color: rgb(13, 25, 94);
     background-repeat:round;
     height: 100vh;
 }
 
 h1{
     font-size:32pt;
-    color: rgb(80, 126, 27);
+    color: rgb(187, 199, 24);
 }
 h2{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size:12pt;
 }
