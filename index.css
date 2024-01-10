@@ -7,5 +7,9 @@ body{
 
 h1{
     font-size:60pt;
-    color:aqua;
+    color: pink;
+}
+h2{
+    color: orange;
+    font-size:10pt;
 }
